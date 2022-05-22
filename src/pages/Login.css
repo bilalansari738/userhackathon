@@ -1,0 +1,14 @@
+.form-container{
+    min-height: 100vh;
+    min-width: 100%;
+    background-color: tomato;
+}
+.login-div{
+    width: 30%;
+    padding: 10px;
+    position: absolute;
+    top: 30vh;
+    left: 35%;
+    min-height: 40vh;
+    background-color: white;
+}
